@@ -1,0 +1,22 @@
+{
+  "background_color": "purple",
+  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "display": "fullscreen",
+  "icons": 
+    {
+      "192": "icon/fox-icon.png",
+      "512": "icon/fox-512.png"
+      
+    },
+  "browser_action":{
+    "default_icon":   {
+      "192": "icon/fox-icon.png"
+    }
+
+},
+  "name": "Awesome fox pictures",
+  "short_name": "Foxes",
+  "version": "1.0",
+  "start_url": "index.html",
+  "manifest_version":2
+}
